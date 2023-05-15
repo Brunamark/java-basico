@@ -1,7 +1,6 @@
 # Java Básico
 
-Repositorio para armazenar todo o conteudo de Java Basico
-alterando o conteudo de forma local
+Repositório para armazenar todos os programas de Java à medida que eu for aprendendo novos assuntos.
 
 
 ## Links Uteis
