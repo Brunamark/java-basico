@@ -25,7 +25,7 @@ public class Contador {
        }
        else{
             for(int i=0; i<contagem; i++){
-                System.out.println("Imprimindo o número "+(i+1));
+                System.out.println("Imprimindo o número "+(i+1)+".");
             }
        }
     }
